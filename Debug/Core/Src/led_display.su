@@ -1,0 +1,4 @@
+led_display.c:12:6:display7SEG	16	static
+led_display.c:55:6:update7SEG	16	static
+led_display.c:78:6:setTraffic	16	static
+led_display.c:88:6:LedBlinking	16	static
